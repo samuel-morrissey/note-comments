@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "minAppVersion": "1.4.0",
   "description": "Comente em notas como em um post de blog ou ticket. Os comentários ficam salvos no próprio markdown.",
-  "author": "Você",
+  "author": "Samuel de Lima",
+  "authorUrl": "https://github.com/samuel-morrissey",
   "isDesktopOnly": false
 }
